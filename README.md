@@ -8,3 +8,4 @@ Features:
 • Modern UI
 
 Live Demo:
+https://srajankumar1.github.io/MyResume---Build-your-resume-in-minutes/
